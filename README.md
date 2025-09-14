@@ -5,8 +5,7 @@ Welcome to my personal portfolio repository! This portfolio showcases the projec
 
 ## 🚀 About Me
 
-I am a final year B.Tech student in Computer Science and Engineering(Artificial Intelligence). I am passionate about technology, software development, and problem-solving. My interests lie in Data Strutures Algorithm & web development. This portfolio is a reflection of my work and the skills I have developed over the course of my studies.
-
+To secure a challenging role in a progressive organization where I can leverage my technical skills and knowledge to contribute to organizational growth while enhancing my professional development. 
 ## 📚 Education
 
 - **B.Tech in Computer Science and Engineering(Artificial Intelligence)**
